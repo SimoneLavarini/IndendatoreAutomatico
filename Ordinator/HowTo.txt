@@ -1,0 +1,6 @@
+Il funzionamento del programma è molto semplice:
+
+
+1 - andrà inserito il file da modificare nella cartella "file".
+2 - una volta avviato il programma (ordinator2.java) verrà richiesto di specificare il nome del file da modificare e il nome del file su cui salvare le modifice (attezione a mettere nomi diversi).
+3 - una volta eseguita la computazione dovreste trovare il file con il nome che avete scelto sempre nella cartella "file".
